@@ -139,7 +139,7 @@ Suggestions, issue reports, and improvements are welcome. Please read [`CONTRIBU
 
 This project is released under the MIT License. See [`LICENSE`](LICENSE).
 
-## A note from the author
+## A note 
 
 I am sharing this project while it is still being developed because I wanted to make some of my experiments available to other Roblox developers. It is incomplete, and I do not claim that every system is optimized or fully validated. If you find an interesting use for it, have feedback, or spot something that could be improved, feel free to open an issue or share your thoughts.
 #
